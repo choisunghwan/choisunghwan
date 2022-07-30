@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=choisunghwan%20github&fontSize=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SungHwan%20:)&fontSize=50&animation=twinkling" />
 
 <h1>🎨ABOUT ME🎨</h1>
       
