@@ -36,6 +36,11 @@
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choisunghwan)](https://github.com/anuraghazra/github-readme-stats) 
+
+<h3>Most language</h3>
+      
+<br/> 
+<br/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisunghwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/choisunghwan%2Fgjbae1212%2Fhit-counter)](https://github.com/choisunghwan) 
