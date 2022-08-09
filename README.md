@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SungHwan%20:)&fontSize=50&animation=twinkling" />
 
 <h1>🎨ABOUT ME🎨</h1>
-I'm a passionate FrontEnd developer from korea    
+<strong>I'm a 🔥Passionate🔥 FrontEnd Developer From Korea</strong>   
 
 
 
