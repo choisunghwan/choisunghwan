@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-blueviolet?style=flat-square&logo=Bootstrap&logoColor=white"/>
 
 <p align="center" >
 📚 Back-end Stack : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
