@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-blueviolet?style=flat-square&logo=Bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pug-white?style=flat-square&logo=Pug&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pug-brown?style=flat-square&logo=Pug&logoColor=black"/>
 <p align="center" >
 📚 Back-end Stack : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=Firebase&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-white?style=flat-square&logo=Eclipse IDE&logoColor=blueviolet"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-blueviolet?style=flat-square&logo=Eclipse IDE&logoColor=whitesmoke"/>
 <img src="https://img.shields.io/badge/Slack-blue?style=flat-square&logo=Slack&logoColor=white"/>
 <br/>    
 <br/> 
