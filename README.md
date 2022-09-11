@@ -20,26 +20,31 @@
 <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-blueviolet?style=flat-square&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pug-brown?style=flat-square&logo=Pug&logoColor=black"/>
 
 <p align="center" >
 📚 Back-end Stack : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-lightgrey?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-success?style=flat-square&logo=Spring&logoColor=white"/>
-      </p>
+<img src="https://img.shields.io/badge/Spring-%236DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+</p>
 
 <br/>      
       
 ### Tools / etc 🐋
 ---
 <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=Firebase&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-blueviolet?style=flat-square&logo=Eclipse IDE&logoColor=whitesmoke"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-blue?style=flat-square&logo=Slack&logoColor=white"/>
+<br/>  
 <img src="https://img.shields.io/badge/OpenCV-brightgreen?style=flat-square&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-%23150458?style=flat-square&logo=YOLO&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <br/>    
 <br/> 
 <br/> 
