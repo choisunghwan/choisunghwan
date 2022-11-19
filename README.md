@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/OpenCV-brightgreen?style=flat-square&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-%23150458?style=flat-square&logo=YOLO&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Colab-%23150458?style=flat-square&logo=Google Colab&logoColor=yellow"/>
 <br/>    
 <br/> 
 <br/> 
