@@ -25,6 +25,7 @@
 
 <p align="center" >
 📚 Back-end Stack : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-lightgrey?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-%236DB33F?style=flat-square&logo=Spring&logoColor=white"/>
