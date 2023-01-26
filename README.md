@@ -5,6 +5,7 @@
 <strong>I'm a 🔥Passionate🔥  Developer From Korea</strong>   
 
 
+![100](https://user-images.githubusercontent.com/33335762/214813743-2bc710ea-ab27-4aa1-bc3c-53c52981f73f.gif)
 
 
 
